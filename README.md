@@ -3,8 +3,6 @@
 MyF Face Recognition Library is a Python library for face recognition using a combination of MTCNN (Multi-task Cascaded Convolutional Networks), YOLO (You Only Look Once), and FaceNet models. It provides scripts for face embeddings generation, image-based face recognition, and video-based face recognition.
 
 ## Installation
-
-```bash
 pip install myf_face_recognition
 
 Usage
